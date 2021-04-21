@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tp_dict/static/css/main.dfa575e1.chunk.css",
+    "main.js": "/tp_dict/static/js/main.b2f64dd5.chunk.js",
+    "main.js.map": "/tp_dict/static/js/main.b2f64dd5.chunk.js.map",
+    "runtime-main.js": "/tp_dict/static/js/runtime-main.3bde65e0.js",
+    "runtime-main.js.map": "/tp_dict/static/js/runtime-main.3bde65e0.js.map",
+    "static/js/2.2a16a05b.chunk.js": "/tp_dict/static/js/2.2a16a05b.chunk.js",
+    "static/js/2.2a16a05b.chunk.js.map": "/tp_dict/static/js/2.2a16a05b.chunk.js.map",
+    "static/js/3.f8753394.chunk.js": "/tp_dict/static/js/3.f8753394.chunk.js",
+    "static/js/3.f8753394.chunk.js.map": "/tp_dict/static/js/3.f8753394.chunk.js.map",
+    "index.html": "/tp_dict/index.html",
+    "static/css/main.dfa575e1.chunk.css.map": "/tp_dict/static/css/main.dfa575e1.chunk.css.map",
+    "static/js/2.2a16a05b.chunk.js.LICENSE.txt": "/tp_dict/static/js/2.2a16a05b.chunk.js.LICENSE.txt",
+    "static/media/logo.a2aa0bae.svg": "/tp_dict/static/media/logo.a2aa0bae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bde65e0.js",
+    "static/js/2.2a16a05b.chunk.js",
+    "static/css/main.dfa575e1.chunk.css",
+    "static/js/main.b2f64dd5.chunk.js"
+  ]
+}
